@@ -1,0 +1,14 @@
+{
+    "Branch Name": "Venn",
+    "Accounts": {
+        "Isha": {
+            "username": "Isha",
+            "password": "po",
+            "Balance": 30000,
+            "Transactions": [
+                "Created at 2023-03-17 16:45:45",
+                "Deposited 50000 at 2023-03-17 16:45:55"
+            ]
+        }
+    }
+}
